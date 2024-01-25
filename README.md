@@ -59,7 +59,7 @@ API Automation with Rest Assured
 
 certificates:
 
-file:///C:/Users/mythi/Downloads/certificate.pdf
+(file:///C:/Users/mythi/Downloads/certificate.pdf)
 
 
 
