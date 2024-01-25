@@ -10,56 +10,56 @@ i do have the previous working experience as a QA (manual). After the career bre
 
 Tools:
 
- Jira - Project Management
- qtest - bug tracking 
- Google Drive - storing data
- Git - For better work in development team and controlling software version
- GitHub - Supporting Git and preparing repositories
- Postman - API testing
- Selenium 
- Robort framework
- HP ALM
- Microsoft Office Suite 
+* Jira - Project Management
+* qtest - bug tracking 
+* Google Drive - storing data
+* Git - For better work in development team and controlling software version
+* GitHub - Supporting Git and preparing repositories
+* Postman - API testing
+* Selenium 
+* Robort framework
+* HP ALM
+* Microsoft Office Suite 
 
  Testing Skills: 
  
- Manual testing 
- DB Testing 
- API Testing 
- Selenium Automation
- Agile 
+ * Manual testing 
+ * DB Testing 
+ * API Testing 
+ * Selenium Automation
+ * Agile 
 
  Tech Skills:
  
- SQL
- software testin
- creating test cases
- reporting bugs
- creating bug reports
- Basic core java
- HTML5
- CSS
+ * SQL
+ * software testin
+ * creating test cases
+ * reporting bugs
+ * creating bug reports
+ * Basic core java
+ * HTML5
+ * CSS
   
  
 Soft skills: 
 
-Attention to detail 
-Positive attitude
-Adaptable
-Time-management
-Curiosity 
+* Attention to detail 
+* Positive attitude
+* Adaptable
+* Time-management
+* Curiosity 
 
 Courses:
 
-Learn Agile and Scrum Fundamentals with JIRA ( LIVE DEMO )
-Automation Tester Blueprint with JAVA 
-SQL Masterclass
-API Testing Manually with POSTMAN
-API Automation with Rest Assured
+* Learn Agile and Scrum Fundamentals with JIRA ( LIVE DEMO )
+* Automation Tester Blueprint with JAVA 
+* SQL Masterclass
+* API Testing Manually with POSTMAN
+* API Automation with Rest Assured
 
 certificates:
 
-[](file:///C:/Users/mythi/Downloads/certificate.pdf)
+* <a href="file:///C:/Users/mythi/Downloads/certificate.pdf">Click Here!</a>
 
 
 
