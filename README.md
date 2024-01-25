@@ -51,15 +51,19 @@ Soft skills:
 
 Courses:
 
-* Learn Agile and Scrum Fundamentals with JIRA ( LIVE DEMO )
-* Automation Tester Blueprint with JAVA 
-* SQL Masterclass
-* API Testing Manually with POSTMAN
-* API Automation with Rest Assured
+* [Learn Agile and Scrum Fundamentals with JIRA ( LIVE DEMO )](https://courses.thetestingacademy.com/courses/learn-agile-and-scrum-fundamentals-in-2-hours-with-jira-live-demo/dashboard)
+* [Automation Tester Blueprint with JAVA](https://courses.thetestingacademy.com/courses/live-job-ready-automation-tester-blueprint-with-java-by-pramod-dutta-3x/dashboard) 
+* [SQL Masterclass](https://courses.thetestingacademy.com/courses/learn-sql/dashboard)
+* [API Testing Manually with POSTMAN](https://courses.thetestingacademy.com/courses/api-testing-manually-with-postman/dashboard)
+* [API Automation with Rest Assured]()
 
 certificates:
 
-* <a href="file:///C:/Users/mythi/Downloads/certificate.pdf">Click Here!</a>
+* <a href="https://courses.thetestingacademy.com/courses/live-job-ready-automation-tester-blueprint-with-java-by-pramod-dutta-3x/dashboard">Automation Testing</a>
+
+Projects:
+
+
 
 
 
